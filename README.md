@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <h1>✨ Glassmorphism Website</h1>
-  <p>A sleek and modern website featuring a glassmorphism UI design, built with HTML, CSS, and JavaScript.</p>
+  <p>A sleek and modern website featuring a glassmorphism UI design, built with HTML, CSS.</p>
   
   <img src="Glassmorphism%20Website/ss.png" alt="Glassmorphism Website Screenshot" width="100%"/>
 </div>
